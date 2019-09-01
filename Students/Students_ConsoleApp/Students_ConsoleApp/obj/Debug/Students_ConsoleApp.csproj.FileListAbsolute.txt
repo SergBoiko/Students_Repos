@@ -1,0 +1,10 @@
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\Students\Students_ConsoleApp\Students_ConsoleApp\bin\Debug\Students_ConsoleApp.exe.config
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\Students\Students_ConsoleApp\Students_ConsoleApp\bin\Debug\Students_ConsoleApp.exe
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\Students\Students_ConsoleApp\Students_ConsoleApp\bin\Debug\Students_ConsoleApp.pdb
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\Students\Students_ConsoleApp\Students_ConsoleApp\bin\Debug\Students_ClassLibrary.dll
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\Students\Students_ConsoleApp\Students_ConsoleApp\bin\Debug\Students_ClassLibrary.pdb
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\Students\Students_ConsoleApp\Students_ConsoleApp\obj\Debug\Students_ConsoleApp.csprojAssemblyReference.cache
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\Students\Students_ConsoleApp\Students_ConsoleApp\obj\Debug\Students_ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\Students\Students_ConsoleApp\Students_ConsoleApp\obj\Debug\Students_ConsoleApp.csproj.CopyComplete
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\Students\Students_ConsoleApp\Students_ConsoleApp\obj\Debug\Students_ConsoleApp.exe
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\Students\Students_ConsoleApp\Students_ConsoleApp\obj\Debug\Students_ConsoleApp.pdb

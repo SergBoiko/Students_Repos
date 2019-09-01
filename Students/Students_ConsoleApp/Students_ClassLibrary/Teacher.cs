@@ -5,9 +5,10 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Students_ClassLibrary
-{
+{ 
     public class Teacher
-    {
+    {   
+        // опусти уже это поле ниже там где ты все поля обьявляеешь )) 
         public List<Group> Groups;
 
         public Teacher(string name, int age)
